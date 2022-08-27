@@ -1,0 +1,20 @@
+#titulo{
+    background-color: #A9A9A9;
+    height: 30px;
+    width: 330px;   
+}
+#p{
+    font-size: 20px;
+    padding-left: 125px;
+    padding-top: 5px;
+}
+#cmd{
+    
+    float: right;
+    height: 220px;
+    width: 220px;
+    margin-right: 600px;
+}
+#dados{
+    background-color: #D3D3D3;
+}
